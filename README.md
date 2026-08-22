@@ -68,5 +68,4 @@ backend/         Express + TypeScript API, MongoDB (via Mongoose), Gemini, LangG
 frontend/        React (function components + hooks) + Vite + TypeScript + Tailwind, feature-based structure
 SYSTEM.md        Architecture, rationale, tradeoffs, what breaks at scale
 TRADEOFFS.md     Condensed design-decisions doc (for review)
-RAG_EXPLAINED.md Beginner-friendly walkthrough of the RAG pipeline
 ```
